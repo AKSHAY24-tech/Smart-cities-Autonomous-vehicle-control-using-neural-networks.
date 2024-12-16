@@ -1,4 +1,4 @@
-<img width="203" alt="image" src="https://github.com/user-attachments/assets/196bd9c2-dede-4301-b9ff-0d1ab46f56e3" />
+<img width="403" alt="image" src="https://github.com/user-attachments/assets/196bd9c2-dede-4301-b9ff-0d1ab46f56e3" />
 
 
 # Smart-cities-Autonomous-vehicle-control-using-neural-networks.
